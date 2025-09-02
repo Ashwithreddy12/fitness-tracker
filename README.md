@@ -2,7 +2,8 @@
 
 A comprehensive fitness tracking application built with React, TypeScript, and Supabase. Track your workouts, meals, and monitor your progress with beautiful charts and analytics.
 
-![Fitness Tracker Dashboard](https://www.google.com/imgres?q=gym%20images&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fweightlifter-clapping-hands-preparing-workout-gym-focus-dust-112033565.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fgym.html&docid=_X1fxpTYxOXzhM&tbnid=XU87xQNK1BKw0M&vet=12ahUKEwjSxdrn6bmPAxXTSmwGHXXpMVcQM3oECD8QAA..i&w=800&h=571&hcb=2&ved=2ahUKEwjSxdrn6bmPAxXTSmwGHXXpMVcQM3oECD8QAA)
+![Fitness Tracker Dashboard](https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
+
 
 ## ✨ Features
 
